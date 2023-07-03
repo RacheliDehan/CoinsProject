@@ -6,7 +6,7 @@ The graph shows the values of the $ exchange rate for fixed periods (week, month
 
 על מנת להריץ את הפרויקט ולצפות בו-
 -  להריץ את קוד הSql המופיע כאן בסוף העמוד ע"מ ליצור את הDB בצורה מקומית.
--  להוריד ולהריץ את הsrver  מהקישור הבא: https://github.com/RacheliDehan/CoinsProject_server
+-  להוריד ולהריץ את הserver  מהקישור הבא: https://github.com/RacheliDehan/CoinsProject_server
 -  להוריד ולהריץ את הclient  מהקישור הבא:https://github.com/RacheliDehan/CoinsProject_client
 
 script to sql:
